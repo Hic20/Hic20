@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,docker,discord,git,gitlab,github,linux,md,obsidian,raspberrypi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,docker,bash,discord,git,gitlab,github,linux,md,obsidian,raspberrypi,latex&perline=7)](https://skillicons.dev)
+
+### Currently learning
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+### IDE's in use
+[![My Skills](https://skillicons.dev/icons?i=vscode,clion)](https://skillicons.dev)
 
 <!--
 **Hic20/Hic20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
