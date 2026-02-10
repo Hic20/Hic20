@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,docker,bash,discord,git,gitlab,github,linux,md,obsidian,raspberrypi,latex&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,docker,bash,git,gitlab,github,linux,md,raspberrypi,latex&perline=7)](https://skillicons.dev)
 
 ### Currently learning
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
